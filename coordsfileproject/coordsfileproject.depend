@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1524690215 source:c:\users\manth\desktop\coding_files\coordsfileproject\main.cpp
+	<iostream>
+	<climits>
+
+1524164758 c:\users\manth\desktop\coding_files\coordsfileproject\include\coords.h
+	<string>
+
+1524164777 source:c:\users\manth\desktop\coding_files\coordsfileproject\src\coords.cpp
+	"coords.h"
+	<cmath>
+	<cstdlib>
+	<iostream>
+
+1524187823 source:c:\users\manth\desktop\coding_files\coordsfileproject\src\shape.cpp
+	<string>
+	<ostream>
+	"shape.h"
+
+1524187790 c:\users\manth\desktop\coding_files\coordsfileproject\include\shape.h
+	<string>
+	<ostream>
+
+1524188472 source:c:\users\manth\desktop\coding_files\coordsfileproject\src\rectangle.cpp
+	"rectangle.h"
+
+1524188472 c:\users\manth\desktop\coding_files\coordsfileproject\include\rectangle.h
+	"shape.h"
+
+1524187875 source:c:\users\manth\desktop\coding_files\coordsfileproject\src\circle.cpp
+	<math.h>
+	"circle.h"
+
+1524188341 c:\users\manth\desktop\coding_files\coordsfileproject\include\circle.h
+	"shape.h"
+
+1524190781 c:\users\manth\desktop\coding_files\coordsfileproject\include\pair.h
+
+1524191597 source:c:\users\manth\desktop\coding_files\coordsfileproject\src\pair.cpp
+	<iostream>
+	"pair.h"
+
+1524690037 source:c:\users\manth\desktop\coding_files\homework5\problem3\safesum.cpp
+	<iostream>
+	<climits>
+

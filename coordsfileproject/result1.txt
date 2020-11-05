@@ -1,0 +1,8 @@
+area of c1: 2827.43
+It is a circle with area 2827.43.
+
+area of r1: 17.8
+It is a  with area 17.8.
+
+area of r2: 34.81
+It is a  with area 34.81.

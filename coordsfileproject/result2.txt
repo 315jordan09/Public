@@ -1,0 +1,6 @@
+The first is: 50
+The second is: 22000
+The first is: f
+The second is: b
+The first is: 0.44
+The second is: 8.23082
